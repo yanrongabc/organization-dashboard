@@ -4,6 +4,7 @@ Mock-up of charts to be used in the dashboard is available in this notebook: htt
 
 
 
-<a href="https://codesandbox.io/s/w6y956n1yl">
-  <img alt="Edit ALSET Organisation Dashboard" src="https://codesandbox.io/static/img/play-codesandbox.svg">
+<a href="https://codesandbox.io/s/github/yanrongabc/organization-dashboard/tree/master/alset-organisation-dashboard/src">
+  <img alt="Edit alset-organisation-dashboard" src="https://codesandbox.io/static/img/play-codesandbox.svg">
 </a>
+
